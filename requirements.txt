@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+# fraud_model.joblib was saved with scikit-learn 1.9.1; other versions may fail to load it
+scikit-learn==1.9.1
+joblib
+jupyter
